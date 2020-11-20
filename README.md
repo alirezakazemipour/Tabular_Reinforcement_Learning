@@ -1,1 +1,2 @@
-# Q-Table-Numpy
+# Tabular Reinforcement Learning
+
